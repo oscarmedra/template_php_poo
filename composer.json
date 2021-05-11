@@ -1,0 +1,11 @@
+{
+    "name": "noah/essaie",
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/",
+            "Core\\" : "core/"
+        }
+    },
+    
+    "require": {}
+}
