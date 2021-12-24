@@ -15,7 +15,7 @@
                 'db_host' => 'localhost',
                 'db_user' => 'root',
                 'db_pass' => 'passer',
-                'db_name' => 'gmbase' // le nom de notre base de don├®e .
+                'db_name' => 'teste' // le nom de notre base de don├®e .
 
             ];
         }
